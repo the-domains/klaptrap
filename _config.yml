@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8435249470722423
+  lightness: 0.48006158138368693
+  rhythmicContrast: 0.11008770510733812
+  saturation: 0.5997873743406462
+cta: {}
+layout_spectrum: 0.37411307586592124
+name: klaptrap
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.04781446470600548
