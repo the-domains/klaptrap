@@ -1,7 +1,7 @@
 name: klaptrap
 favicon: null
-layout_spectrum: 0.37411307586592124
-typography_spectrum: 0.04781446470600548
+layout_spectrum: 0.1435
+typography_spectrum: 0.33664
 cta:
   domain: null
   bucket: null
