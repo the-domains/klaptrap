@@ -2,6 +2,7 @@ name: klaptrap
 favicon: null
 layout_spectrum: 0.1435
 typography_spectrum: 0.33664
+title: 'A life in digital, closing the loop'
 cta:
   domain: null
   bucket: null
